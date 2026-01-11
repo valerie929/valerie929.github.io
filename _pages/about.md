@@ -47,5 +47,5 @@ redirect_from:
 
 # Educations
 - *2018.09 - 2023.06 *, Yan'an University
-- *2024.09 - now*, Nanjing Medical University
+- *2024.09 - now *, Nanjing Medical University
 
