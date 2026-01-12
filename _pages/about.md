@@ -39,7 +39,7 @@ redirect_from:
 
 
 # Publications 
--None
+- None
 
 
 
@@ -53,5 +53,5 @@ redirect_from:
 
 # Contact with me
 
--Wechat：tzzc929
+- Wechat：tzzc929
 
